@@ -60,5 +60,12 @@ split_message = mpesa_message.split (" ")
 
 
 
-
 print(f"The amount is: ",split_message[4])
+
+
+renewed_balance = split_message.replace ("kes", "")
+print([renewed_balance])
+
+
+
+
