@@ -15,8 +15,10 @@
 # QUESTION ONE (i)
 import math 
 
+print("--------------------------------")
 for x in range(-180,180,30):
     print(math.sin(x))
+    print(f"cosine of {x} = {math.cos(x)}")
 
 # QUESTION ONE (ii)
 for y in range(-180,180,30):
@@ -26,3 +28,14 @@ for y in range(-180,180,30):
 # QUESTION TWO
 for z in range(0,30):
     print(z**2)
+
+
+
+# setting info in tables
+print("------------------------")
+print("|angle{x}|")
+print("------------------------")
+print("|angle{x}|")
+print("------------------------")
+print("|angle{x}|")
+print("------------------------")
