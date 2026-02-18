@@ -12,3 +12,6 @@ n = (int(input("Enter the value of the number of terms: ")))
 
 nth_term =  a*(r**(n-1))
 print(f"The value of the nth term is: {nth_term}")
+ 
+
+ 
