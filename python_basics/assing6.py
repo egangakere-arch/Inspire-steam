@@ -1,6 +1,6 @@
 # Name : Gabriel Egan Gakere
 # Date : 19/02/2026
-# A program to show objets
+# A program to show objects
 
 
 
