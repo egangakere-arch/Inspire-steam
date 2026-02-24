@@ -2,7 +2,6 @@
 # Date : 23/02/2026
 # A program to show inheritance in python
 
-from turtle import color
 
 
 class Animal(self, species, weight, diet):
