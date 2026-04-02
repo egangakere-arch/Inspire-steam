@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  border: solid 3px yellow;
+  height: 600px;
+    width: 400px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    allign-content: flex-start;
+}
+
+.box {
+    background-color: gray;
+  border: solid 3px red;
+  width: 100px;
+  height: 100px;  
+  margin: 8px;
+}
+
